@@ -1,0 +1,7 @@
+openai==0.28.0
+fastapi
+pymongo
+python-dotenv
+uvicorn
+sentence_transformers
+numpy
